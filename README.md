@@ -146,4 +146,5 @@ Feedstock Maintainers
 =====================
 
 * [@mollyheamazon](https://github.com/mollyheamazon/)
+* [@aviruthen](https://github.com/aviruthen/)
 
